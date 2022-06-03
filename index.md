@@ -39,7 +39,7 @@ Part 9: Repo files
 [lab-02/.gitignore](lab-02-.gitignore)
 
 ### 3. lab-02/ignored.txt
-[lab-02/ignored.txt](lab-02-ignored.txt)
+[lab-02/ignored.txt](ignored.txt)
 
 ### 4. lab-02/lab-02-files.txt
 [lab-02/lab-02-files.txt](lab-02-files.txt)
