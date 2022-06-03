@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Lab 2
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cit281-lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lab goals and outcomes:
 
-### Markdown
+Use CLI commands for directory and file manipulation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Use CLI commands for git commands
 
-```markdown
-Syntax highlighted code block
+Part 0: Setup git user credentials
 
-# Header 1
-## Header 2
-### Header 3
+Part 1: New git repository
 
-- Bulleted
-- List
+Part 2: Initial JavaScript file
 
-1. Numbered
-2. List
+Part 3: Add file to git
 
-**Bold** and _Italic_ and `Code` text
+Part 4: Ignoring files
 
-[Link](url) and ![Image](src)
-```
+Part 5: Using diff to see changes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Part 6: Using wildcards
 
-### Jekyll Themes
+Part 7: Cloning cloud repos locally
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cit281-lab2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Part 8: Branch
 
-### Support or Contact
+Part 9: Repo files
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## Lab Deliverables:
+
+### 1. lab-02/lab-02-node.js
+![lab-02/lab-02-node.js](lab-02/lab-02-node.js)
+
+### 2. lab-02/.gitignore
+[lab-02/.gitignore](lab-02/.gitignore)
+
+### 3. lab-02/ignored.txt
+[lab-02/ignored.txt](lab-02/ignored.txt)
+
+### 4. lab-02/lab-02-files.txt
+[lab-02/lab-02-files.txt](lab-02/lab-02-files.txt)
+
+
