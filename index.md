@@ -35,8 +35,8 @@ Part 9: Repo files
 ### 1. lab-02/lab-02-node.js
 [lab-02/lab-02-node.js](lab-02-node.js)
 
-### 2. lab-02/.gitignore
-![lab-02/.gitignore]()
+### 2. lab-02/.gitignore (screenshot)
+![lab-02/.gitignore](gitignore.png)
 
 ### 3. lab-02/ignored.txt
 [lab-02/ignored.txt](ignored.txt)
