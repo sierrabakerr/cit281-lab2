@@ -33,15 +33,15 @@ Part 9: Repo files
 ## Lab Deliverables:
 
 ### 1. lab-02/lab-02-node.js
-[lab-02/lab-02-node.js](lab-02/lab-02-node.js)
+[lab-02/lab-02-node.js](lab-02-lab-02-node.js)
 
 ### 2. lab-02/.gitignore
-[lab-02/.gitignore](lab-02/.gitignore)
+[lab-02/.gitignore](lab-02-.gitignore)
 
 ### 3. lab-02/ignored.txt
-[lab-02/ignored.txt](lab-02/ignored.txt)
+[lab-02/ignored.txt](lab-02-ignored.txt)
 
 ### 4. lab-02/lab-02-files.txt
-[lab-02/lab-02-files.txt](lab-02/lab-02-files.txt)
+[lab-02/lab-02-files.txt](lab-02-files.txt)
 
 
